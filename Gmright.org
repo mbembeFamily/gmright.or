@@ -1,0 +1,6 @@
+Set_8282.92o2
+^soundbite ^
+Gmright=well <in>
+Position=UTF-8 
+Power program  up gmright 
+Set Ip.adress 29282.29292.
